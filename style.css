@@ -1,0 +1,89 @@
+body{
+    background:rgb(31, 31, 31)!important
+}
+.navbar{
+    background-color:transparent
+}
+
+#icon{
+    font-size: 40px;
+   
+    color:#fdfcfc
+   
+}
+.navbar-brand{
+    color:#fdfcfc!important;
+    font-weight: 800;
+    font-size:35px !important;
+    margin-left:40px !important;
+    letter-spacing: 1px;
+    text-shadow:2px 2px 1px #0a0a0a;
+   
+}
+.nav-link{
+    font-weight:700;
+    font-size:20px;
+    color:#ffff!important;
+}
+.nav-link:hover{
+    transform: scale(1.3);
+    transition-duration:inherit;
+    color:#FFAC1C !important;
+
+}
+   
+
+#btn{
+   width:145px;
+   font-weight: 500;
+   height:45px;
+   color:#ddd9d9;
+   text-shadow:2px 2px 1px #0a0a0a;
+   box-shadow:2px 2px 2px black;
+   border-color: gold!important;
+  
+}
+#btn:hover{
+    background-color:transparent !important;
+    border-color:#FFAC1C;
+}
+
+#headphone{
+    height:500px;
+    display:inline-block;
+    mix-blend-mode: multiply;
+}
+
+#para{
+    text-transform: capitalize;
+    font-size:39px;
+    font-weight: 700;
+    color:#fdfcfc;
+    text-shadow:2px 2px 1px #0a0a0a
+}
+p2{
+    color:#FFAC1C
+}
+p3{
+    color:grey
+}
+#btn1{
+    font-size: 18px;
+    cursor:text
+}
+.heading{
+    font-weight: 700;
+    color:darkgreen !important;
+    font-size: 35px;
+    text-shadow:2px 2px 1px #0a0a0a
+}
+
+
+#tws{
+    height:700px;
+    margin-top: -135px !important;
+    
+}
+#aboutbtn{
+    font-weight:700;
+}
